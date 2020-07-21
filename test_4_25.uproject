@@ -1,0 +1,12 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{9385C9D1-4117-23BF-222D-A09CE24B6089}",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "PythonScriptPlugin",
+			"Enabled": true
+		}
+	]
+}
